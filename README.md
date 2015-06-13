@@ -7,7 +7,7 @@ This project can be used with over ios 7.0.
 
 please added these frameworks to build this project.
 
-- opnecv2.framework
+- opencv2.framework
 - QuartzCode.framework
 - CoreImage.framework
 - CoreMedia.framework
