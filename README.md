@@ -18,3 +18,8 @@ please added these frameworks to build this project.
 - UIKit.framework
 - Foundation.framework
 - CoreGraphics.framework
+
+## usage
+
+With this app, you can extract specific color.
+You can control extracted hsv color with slider when you tap screen.
