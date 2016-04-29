@@ -3,7 +3,7 @@
 Extracting color with the HSV color space from iOS camera in real time using OpenCV2.9 for ios. 
 This project can be used with over ios 7.0.
 
-## setup
+## Setup
 
 please added these frameworks to build this project.
 
@@ -19,7 +19,7 @@ please added these frameworks to build this project.
 - Foundation.framework
 - CoreGraphics.framework
 
-## usage
+## Usage
 
 With this app, you can extract specific color.
 You can control extracted hsv color with slider when you tap screen.
